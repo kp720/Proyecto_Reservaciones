@@ -17,6 +17,7 @@ Dentro de esta ventana podran iniciar sesión tanto los adminitradores como los 
 - Registro
 ![Registro](caps/img3.png)
 En esta ventana los clientes podran poner tanto sus datos personales como su registro para iniciar sesión, las diferentes entradas tienen validaciones para perimitir letras/números y correos y contraseñas validas, que pueden ser cambiadas en la clase `validaciones` del paquete `utileria` dentro del proyecto
-![log](caps/img4) se podra regresar a la pestaña de login por medio de la pestaña de abajo.
+![log](caps/img4.png)
+Se podra regresar a la pestaña de login por medio de la pestaña de abajo.
 
 - 
