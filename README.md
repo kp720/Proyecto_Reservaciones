@@ -60,6 +60,6 @@ En cuyo caso que entre un adminitrador con exito aparecera una ventana con difer
 
 ![log](caps/img13.png)
 
-Creadores:
-Kevin Peralta Nava Peralta
-Cristian Eduardo Mendoza Ramirez
+**Creadores:**
+- Kevin Peralta Nava Peralta
+- Cristian Eduardo Mendoza Ramirez
